@@ -8,7 +8,7 @@ from search_scraper import search_yelp
 SMTP_CONFIG = {
     "host": "smtp.gmail.com",
     "port": 465,
-    "password": "ojxd qpkt jbcr vmqw"  # Replace with your actual app password
+    "password": "your-app-password"  # Replace with your actual app password
 }
 
 SEND_EMAILS = False    # Set to True only when you're ready to send
