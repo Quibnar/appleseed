@@ -1,0 +1,34 @@
+Hi {{ business_name }},
+
+I’d like to share Appleseed — a lead generation and outreach automation tool.
+
+Appleseed found your business and wrote you this email.
+
+And it’s open source.
+
+### You can use it for free:
+
+1. Clone the code: https://github.com/your-repo/leadgen-mailer
+2. Open the folder in **Windows PowerShell**
+3. Run:
+    ~ python -m venv venv
+    ~ .\venv\Scripts\Activate
+    ~ pip install -r requirements.txt
+    ~ python main.py
+
+4. When prompted, enter your **email address**  
+If you're using Gmail or Google Workspace:
+- Enable **2-Step Verification**
+- Visit [App Passwords](https://myaccount.google.com/apppasswords)
+- Generate a 16-character password and paste it into `main.py` under `SMTP_CONFIG`
+
+Once set up, Appleseed will send your custom outreach emails on your behalf.
+
+If you’d like help installing or customizing it, drop me a line.
+
+Dirk Stockton  
+The Johnny Appleseed of Technology  
+🌐 on-the-metal.net  
+🔗 github.com/your-repo  
+👤 linkedin.com/in/you  
+🪄 “This email wrote itself. Yours can too.”

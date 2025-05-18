@@ -1,0 +1,4 @@
+venv/
+leads.db
+__pycache__/
+*.pyc
